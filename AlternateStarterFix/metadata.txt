@@ -2,6 +2,7 @@
 
 Name: AlternateStarterFix
 Version: 1.00
+Author: CosmicOrange
 
 DLL: AlternateStarterFix.dll
 
