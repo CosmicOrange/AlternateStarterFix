@@ -1,0 +1,8 @@
+﻿# Lines beginning with # are comment lines.
+
+Name: AlternateStarterFix
+Version: 1.00
+
+DLL: AlternateStarterFix.dll
+
+Depends: Base 0.2
